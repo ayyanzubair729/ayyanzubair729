@@ -1,8 +1,10 @@
 <div align="center">
 
-<img src="images/background%20git.jpeg" width="100%" alt="banner" />
+<img src="images/background%20git.jpeg" width="100%" alt="banner" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; object-fit: cover;" />
 
-<img src="images/avatar%20git.png" width="170" style="border-radius: 50%; border: 3px solid #2D222F; margin-top: -60px;" alt="avatar" />
+<div style="background: rgba(27, 12, 26, 0.75); padding: 80px 20px 40px; position: relative;">
+
+<img src="images/avatar%20git.png" width="170" style="border-radius: 50%; border: 3px solid #2D222F;" alt="avatar" />
 
 # Hi, I'm Ayyan Zubair 👋
 
@@ -18,6 +20,7 @@
 
 > Computer Science student at NUML Islamabad, currently in my 6th semester with a 3.94 CGPA, focused on full-stack development, backend engineering, API design, databases, and cloud-based applications.
 
+</div>
 </div>
 
 <br/>
@@ -212,44 +215,44 @@ Modern interfaces, UI/UX experimentation, and interactive/3D web experiences.
 <tr>
 <td width="50%">
 
-### Portfolio Website
-Personal portfolio built with React and Tailwind CSS, featuring responsive design and modern aesthetics.
+### Qissa Clothing Store
+A modern MERN e-commerce platform for women's ethnic fashion, featuring dynamic product browsing, cart and wishlist management, secure authentication, and Stripe payments.
 
-`React` `Tailwind CSS` `Vite`
+`MongoDB` `Express` `React` `Node.js` `Stripe`
 
-[View Project →](#)
+[View Project →](https://github.com/ayyanzubair729/Qissa-clothing-store)
 
 </td>
 <td width="50%">
 
-### E-Commerce API
-Full-featured REST API with authentication, product management, and order processing.
+### DoseNest
+AI-Powered Medication Management system with WhatsApp reminders, helping users manage their health routines intelligently.
 
-`Node.js` `Express` `MongoDB`
+`Node.js` `AI` `WhatsApp API`
 
-[View Project →](#)
+[View Project →](https://github.com/ayyanzubair729/DoseNest)
 
 </td>
 </tr>
 <tr>
 <td width="50%">
 
-### Task Manager
-Full-stack task management application with real-time updates and team collaboration.
+### DLMS
+A professional Learning Management System with role-based dashboards for students, teachers, and administrators. Features course management, AI-powered quiz generation, real-time messaging, and certificate issuance.
 
-`React` `Redux` `PostgreSQL`
+`React` `Django` `PostgreSQL`
 
-[View Project →](#)
+[View Project →](https://github.com/ayyanzubair729/DLMS)
 
 </td>
 <td width="50%">
 
-### Blog Platform
-Content management system with rich text editing and user authentication.
+### NeuroCare-AI
+AI-Powered Healthcare Website providing intelligent, accessible, and user-friendly healthcare services through a modern web interface.
 
-`Node.js` `TypeORM` `JWT`
+`React` `AI` `Healthcare`
 
-[View Project →](#)
+[View Project →](https://github.com/ayyanzubair729/NeuroCare-AI)
 
 </td>
 </tr>
