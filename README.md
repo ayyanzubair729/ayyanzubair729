@@ -1,18 +1,12 @@
 <div align="center">
 
-<table>
-<tr>
-<td align="center" style="background: url('images/background%20git.jpeg') no-repeat center; background-size: cover; background-color: #1B0C1A; padding: 50px 40px 20px;">
+<img src="images/background%20git.jpeg" width="100%" alt="banner" />
 
-<img src="images/avatar%20git.png" width="150" style="border-radius: 50%; border: 3px solid #2D222F;" alt="avatar" />
+<br/>
+
+<img src="images/avatar%20git.png" width="150" style="border-radius: 50%; border: 3px solid #2D222F; margin-top: -75px;" alt="avatar" />
 
 # Hi, I'm Ayyan Zubair
-
-</td>
-</tr>
-</table>
-
-</div>
 
 <svg xmlns="http://www.w3.org/2000/svg" width="420" height="36">
   <rect width="100%" height="100%" fill="#1B0C1A" rx="8"/>
@@ -25,6 +19,8 @@
 <br/>
 
 > Computer Science student at NUML Islamabad, currently in my 6th semester with a 3.94 CGPA, focused on full-stack development, backend engineering, API design, databases, and cloud-based applications.
+
+</div>
 
 <br/>
 
@@ -66,12 +62,7 @@ Computer Science undergraduate at **NUML Islamabad** with a passion for building
 </td>
 <td width="15%" align="center" valign="middle">
 
-<svg xmlns="http://www.w3.org/2000/svg" width="100" height="120">
-  <g>
-    <animateTransform attributeName="transform" type="translate" values="0,0;0,-8;0,0" dur="3s" repeatCount="indefinite"/>
-    <image href="images/me%20git.png" width="100" height="120"/>
-  </g>
-</svg>
+<img src="images/me%20git.png" width="100" alt="code" style="animation: float 3s ease-in-out infinite;" />
 
 </td>
 </tr>
@@ -271,10 +262,6 @@ Modern interfaces, UI/UX experimentation, and interactive/3D web experiences.
 
 <img src="https://github-readme-stats-ten-sigma.vercel.app/api?username=ayyanzubair729&show_icons=true&theme=radical&hide_border=true" width="49%" alt="stats" />
 <img src="https://github-readme-stats-ten-sigma.vercel.app/api/top-langs/?username=ayyanzubair729&layout=compact&theme=radical&hide_border=true" width="49%" alt="languages" />
-
-<br/>
-
-<img src="https://streak-stats.demolab.com?user=ayyanzubair729&theme=radical" width="100%" alt="streak" />
 
 <br/>
 
