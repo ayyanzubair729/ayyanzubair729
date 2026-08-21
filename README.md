@@ -1,17 +1,15 @@
-<div align="center">
+<table>
+<tr>
+<td align="center" width="100%" style="background: url('images/background%20git.jpeg') no-repeat center; background-size: cover; background-color: #1B0C1A; padding: 60px 20px 30px;">
 
-<img src="images/background%20git.jpeg" width="100%" alt="banner" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; object-fit: cover;" />
+<img src="images/avatar%20git.png" width="150" style="border-radius: 50%; border: 3px solid #2D222F;" alt="avatar" />
 
-<div style="background: rgba(27, 12, 26, 0.75); padding: 80px 20px 40px; position: relative;">
+# Hi, I'm Ayyan Zubair
 
-<img src="images/avatar%20git.png" width="170" style="border-radius: 50%; border: 3px solid #2D222F;" alt="avatar" />
-
-# Hi, I'm Ayyan Zubair 👋
-
-<svg xmlns="http://www.w3.org/2000/svg" width="460" height="40">
+<svg xmlns="http://www.w3.org/2000/svg" width="420" height="36">
   <rect width="100%" height="100%" fill="#1B0C1A" rx="8"/>
-  <text x="20" y="27" font-family="monospace" font-size="16" fill="#FADCD5">Full Stack Web Developer | CS Undergrad</text>
-  <line x1="440" y1="12" x2="440" y2="28" stroke="#6D3C52" stroke-width="2.5">
+  <text x="16" y="25" font-family="monospace" font-size="15" fill="#FADCD5">Full Stack Web Developer | CS Undergrad</text>
+  <line x1="402" y1="10" x2="402" y2="26" stroke="#6D3C52" stroke-width="2">
     <animate attributeName="opacity" values="1;0;1" dur="1.2s" repeatCount="indefinite"/>
   </line>
 </svg>
@@ -20,12 +18,27 @@
 
 > Computer Science student at NUML Islamabad, currently in my 6th semester with a 3.94 CGPA, focused on full-stack development, backend engineering, API design, databases, and cloud-based applications.
 
-</div>
-</div>
+</td>
+</tr>
+</table>
 
 <br/>
 
----
+<div align="center">
+
+<svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
+  <line x1="0" y1="10" x2="130" y2="10" stroke="#6D3C52" stroke-width="1">
+    <animate attributeName="x2" values="0;130" dur="1s" fill="freeze"/>
+  </line>
+  <circle cx="150" cy="10" r="0" fill="#6D3C52">
+    <animate attributeName="r" values="0;3;0" dur="2s" repeatCount="indefinite"/>
+  </circle>
+  <line x1="170" y1="10" x2="300" y2="10" stroke="#6D3C52" stroke-width="1">
+    <animate attributeName="x1" values="300;170" dur="1s" fill="freeze"/>
+  </line>
+</svg>
+
+</div>
 
 <br/>
 
@@ -41,10 +54,10 @@
 
 Computer Science undergraduate at **NUML Islamabad** with a passion for building complete, scalable web applications. I thrive at the intersection of frontend design and backend engineering, constantly exploring how professional systems are built, deployed, and maintained.
 
-- 🎓 **6th Semester** | CGPA: **3.94**
-- 🔭 Currently deepening expertise in **backend architecture** and **API design**
-- 🌱 Learning **cloud deployment**, **database architecture**, and **modern DevOps**
-- 💡 Interested in **scalable systems**, **developer tooling**, and **production-ready applications**
+- **6th Semester** | CGPA: **3.94**
+- Currently deepening expertise in **backend architecture** and **API design**
+- Learning **cloud deployment**, **database architecture**, and **modern DevOps**
+- Interested in **scalable systems**, **developer tooling**, and **production-ready applications**
 
 </td>
 </tr>
@@ -52,7 +65,21 @@ Computer Science undergraduate at **NUML Islamabad** with a passion for building
 
 <br/>
 
----
+<div align="center">
+
+<svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
+  <line x1="0" y1="10" x2="130" y2="10" stroke="#6D3C52" stroke-width="1">
+    <animate attributeName="x2" values="0;130" dur="1s" fill="freeze"/>
+  </line>
+  <circle cx="150" cy="10" r="0" fill="#6D3C52">
+    <animate attributeName="r" values="0;3;0" dur="2s" repeatCount="indefinite"/>
+  </circle>
+  <line x1="170" y1="10" x2="300" y2="10" stroke="#6D3C52" stroke-width="1">
+    <animate attributeName="x1" values="300;170" dur="1s" fill="freeze"/>
+  </line>
+</svg>
+
+</div>
 
 <br/>
 
@@ -116,7 +143,21 @@ Computer Science undergraduate at **NUML Islamabad** with a passion for building
 
 <br/>
 
----
+<div align="center">
+
+<svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
+  <line x1="0" y1="10" x2="130" y2="10" stroke="#6D3C52" stroke-width="1">
+    <animate attributeName="x2" values="0;130" dur="1s" fill="freeze"/>
+  </line>
+  <circle cx="150" cy="10" r="0" fill="#6D3C52">
+    <animate attributeName="r" values="0;3;0" dur="2s" repeatCount="indefinite"/>
+  </line>
+  <line x1="170" y1="10" x2="300" y2="10" stroke="#6D3C52" stroke-width="1">
+    <animate attributeName="x1" values="300;170" dur="1s" fill="freeze"/>
+  </line>
+</svg>
+
+</div>
 
 <br/>
 
@@ -151,7 +192,21 @@ Modern interfaces, UI/UX experimentation, and interactive/3D web experiences.
 
 <br/>
 
----
+<div align="center">
+
+<svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
+  <line x1="0" y1="10" x2="130" y2="10" stroke="#6D3C52" stroke-width="1">
+    <animate attributeName="x2" values="0;130" dur="1s" fill="freeze"/>
+  </line>
+  <circle cx="150" cy="10" r="0" fill="#6D3C52">
+    <animate attributeName="r" values="0;3;0" dur="2s" repeatCount="indefinite"/>
+  </line>
+  <line x1="170" y1="10" x2="300" y2="10" stroke="#6D3C52" stroke-width="1">
+    <animate attributeName="x1" values="300;170" dur="1s" fill="freeze"/>
+  </line>
+</svg>
+
+</div>
 
 <br/>
 
@@ -176,7 +231,21 @@ Modern interfaces, UI/UX experimentation, and interactive/3D web experiences.
 
 <br/>
 
----
+<div align="center">
+
+<svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
+  <line x1="0" y1="10" x2="130" y2="10" stroke="#6D3C52" stroke-width="1">
+    <animate attributeName="x2" values="0;130" dur="1s" fill="freeze"/>
+  </line>
+  <circle cx="150" cy="10" r="0" fill="#6D3C52">
+    <animate attributeName="r" values="0;3;0" dur="2s" repeatCount="indefinite"/>
+  </line>
+  <line x1="170" y1="10" x2="300" y2="10" stroke="#6D3C52" stroke-width="1">
+    <animate attributeName="x1" values="300;170" dur="1s" fill="freeze"/>
+  </line>
+</svg>
+
+</div>
 
 <br/>
 
@@ -186,22 +255,30 @@ Modern interfaces, UI/UX experimentation, and interactive/3D web experiences.
 
 </div>
 
-<table>
-<tr>
-<td>
-<img src="https://github-readme-stats.vercel.app/api?username=ayyanzubair729&show_icons=true&theme=radical&bg_color=1B0C1A&title_color=FADCD5&text_color=FADCD5&icon_color=6D3C52&hide_border=true" alt="stats" />
-</td>
-<td>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayyanzubair729&layout=compact&theme=radical&bg_color=1B0C1A&title_color=FADCD5&text_color=FADCD5&hide_border=true" alt="languages" />
-</td>
-</tr>
-</table>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ayyanzubair729&theme=radical&background=1B0C1A&ring=6D3C52&fire=6D3C52&currStreakLabel=FADCD5&sideLabels=FADCD5&currStreakNum=FADCD5&sideNums=FADCD5&dates=FADCD5&border=2D222F" alt="streak" width="100%" />
+<img src="https://github-readme-stats.vercel.app/api?username=ayyanzubair729&show_icons=true&theme=radical&hide_border=true" width="49%" alt="stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayyanzubair729&layout=compact&theme=radical&hide_border=true" width="49%" alt="languages" />
 
 <br/>
 
----
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ayyanzubair729&theme=radical" width="100%" alt="streak" />
+
+<br/>
+
+<div align="center">
+
+<svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
+  <line x1="0" y1="10" x2="130" y2="10" stroke="#6D3C52" stroke-width="1">
+    <animate attributeName="x2" values="0;130" dur="1s" fill="freeze"/>
+  </line>
+  <circle cx="150" cy="10" r="0" fill="#6D3C52">
+    <animate attributeName="r" values="0;3;0" dur="2s" repeatCount="indefinite"/>
+  </line>
+  <line x1="170" y1="10" x2="300" y2="10" stroke="#6D3C52" stroke-width="1">
+    <animate attributeName="x1" values="300;170" dur="1s" fill="freeze"/>
+  </line>
+</svg>
+
+</div>
 
 <br/>
 
@@ -260,7 +337,21 @@ AI-Powered Healthcare Website providing intelligent, accessible, and user-friend
 
 <br/>
 
----
+<div align="center">
+
+<svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
+  <line x1="0" y1="10" x2="130" y2="10" stroke="#6D3C52" stroke-width="1">
+    <animate attributeName="x2" values="0;130" dur="1s" fill="freeze"/>
+  </line>
+  <circle cx="150" cy="10" r="0" fill="#6D3C52">
+    <animate attributeName="r" values="0;3;0" dur="2s" repeatCount="indefinite"/>
+  </line>
+  <line x1="170" y1="10" x2="300" y2="10" stroke="#6D3C52" stroke-width="1">
+    <animate attributeName="x1" values="300;170" dur="1s" fill="freeze"/>
+  </line>
+</svg>
+
+</div>
 
 <br/>
 
@@ -280,7 +371,21 @@ AI-Powered Healthcare Website providing intelligent, accessible, and user-friend
 
 <br/>
 
----
+<div align="center">
+
+<svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
+  <line x1="0" y1="10" x2="130" y2="10" stroke="#6D3C52" stroke-width="1">
+    <animate attributeName="x2" values="0;130" dur="1s" fill="freeze"/>
+  </line>
+  <circle cx="150" cy="10" r="0" fill="#6D3C52">
+    <animate attributeName="r" values="0;3;0" dur="2s" repeatCount="indefinite"/>
+  </line>
+  <line x1="170" y1="10" x2="300" y2="10" stroke="#6D3C52" stroke-width="1">
+    <animate attributeName="x1" values="300;170" dur="1s" fill="freeze"/>
+  </line>
+</svg>
+
+</div>
 
 <br/>
 
