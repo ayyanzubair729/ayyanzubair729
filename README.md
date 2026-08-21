@@ -45,13 +45,7 @@
 
 <div align="center">
 
-<svg xmlns="http://www.w3.org/2000/svg" width="200" height="40" viewBox="0 0 200 40">
-  <text x="100" y="30" text-anchor="middle" font-family="'Segoe UI', Ubuntu, sans-serif" font-size="22" font-weight="700" fill="#FADCD5">
-    About Me
-    <animate attributeName="opacity" values="0;1" dur="0.8s" fill="freeze"/>
-    <animateTransform attributeName="transform" type="translate" values="0,10;0,0" dur="0.8s" fill="freeze"/>
-  </text>
-</svg>
+## About Me
 
 </div>
 
@@ -97,13 +91,7 @@ Computer Science undergraduate at **NUML Islamabad** with a passion for building
 
 <div align="center">
 
-<svg xmlns="http://www.w3.org/2000/svg" width="200" height="40" viewBox="0 0 200 40">
-  <text x="100" y="30" text-anchor="middle" font-family="'Segoe UI', Ubuntu, sans-serif" font-size="22" font-weight="700" fill="#FADCD5">
-    Tech Stack
-    <animate attributeName="opacity" values="0;1" dur="0.8s" fill="freeze"/>
-    <animateTransform attributeName="transform" type="translate" values="0,10;0,0" dur="0.8s" fill="freeze"/>
-  </text>
-</svg>
+## Tech Stack
 
 </div>
 
@@ -181,13 +169,7 @@ Computer Science undergraduate at **NUML Islamabad** with a passion for building
 
 <div align="center">
 
-<svg xmlns="http://www.w3.org/2000/svg" width="200" height="40" viewBox="0 0 200 40">
-  <text x="100" y="30" text-anchor="middle" font-family="'Segoe UI', Ubuntu, sans-serif" font-size="22" font-weight="700" fill="#FADCD5">
-    What I Build
-    <animate attributeName="opacity" values="0;1" dur="0.8s" fill="freeze"/>
-    <animateTransform attributeName="transform" type="translate" values="0,10;0,0" dur="0.8s" fill="freeze"/>
-  </text>
-</svg>
+## What I Build
 
 </div>
 
@@ -236,13 +218,7 @@ Modern interfaces, UI/UX experimentation, and interactive/3D web experiences.
 
 <div align="center">
 
-<svg xmlns="http://www.w3.org/2000/svg" width="250" height="40" viewBox="0 0 250 40">
-  <text x="125" y="30" text-anchor="middle" font-family="'Segoe UI', Ubuntu, sans-serif" font-size="22" font-weight="700" fill="#FADCD5">
-    Currently Exploring
-    <animate attributeName="opacity" values="0;1" dur="0.8s" fill="freeze"/>
-    <animateTransform attributeName="transform" type="translate" values="0,10;0,0" dur="0.8s" fill="freeze"/>
-  </text>
-</svg>
+## Currently Exploring
 
 </div>
 
@@ -281,13 +257,7 @@ Modern interfaces, UI/UX experimentation, and interactive/3D web experiences.
 
 <div align="center">
 
-<svg xmlns="http://www.w3.org/2000/svg" width="220" height="40" viewBox="0 0 220 40">
-  <text x="110" y="30" text-anchor="middle" font-family="'Segoe UI', Ubuntu, sans-serif" font-size="22" font-weight="700" fill="#FADCD5">
-    GitHub Stats
-    <animate attributeName="opacity" values="0;1" dur="0.8s" fill="freeze"/>
-    <animateTransform attributeName="transform" type="translate" values="0,10;0,0" dur="0.8s" fill="freeze"/>
-  </text>
-</svg>
+## GitHub Stats
 
 </div>
 
@@ -320,13 +290,7 @@ Modern interfaces, UI/UX experimentation, and interactive/3D web experiences.
 
 <div align="center">
 
-<svg xmlns="http://www.w3.org/2000/svg" width="250" height="40" viewBox="0 0 250 40">
-  <text x="125" y="30" text-anchor="middle" font-family="'Segoe UI', Ubuntu, sans-serif" font-size="22" font-weight="700" fill="#FADCD5">
-    Featured Projects
-    <animate attributeName="opacity" values="0;1" dur="0.8s" fill="freeze"/>
-    <animateTransform attributeName="transform" type="translate" values="0,10;0,0" dur="0.8s" fill="freeze"/>
-  </text>
-</svg>
+## Featured Projects
 
 </div>
 
@@ -399,13 +363,7 @@ AI-Powered Healthcare Website providing intelligent, accessible, and user-friend
 
 <div align="center">
 
-<svg xmlns="http://www.w3.org/2000/svg" width="220" height="40" viewBox="0 0 220 40">
-  <text x="110" y="30" text-anchor="middle" font-family="'Segoe UI', Ubuntu, sans-serif" font-size="22" font-weight="700" fill="#FADCD5">
-    Let's Connect
-    <animate attributeName="opacity" values="0;1" dur="0.8s" fill="freeze"/>
-    <animateTransform attributeName="transform" type="translate" values="0,10;0,0" dur="0.8s" fill="freeze"/>
-  </text>
-</svg>
+## Let's Connect
 
 </div>
 
