@@ -2,7 +2,12 @@
 
 <img src="images/avatar%20git.png" width="150" style="border-radius: 50%; border: 3px solid #2D222F;" alt="avatar" />
 
-# Hi, I'm Ayyan Zubair
+<svg xmlns="http://www.w3.org/2000/svg" width="460" height="50" viewBox="0 0 460 50">
+  <text x="230" y="38" text-anchor="middle" font-family="'Segoe UI', Ubuntu, sans-serif" font-size="32" font-weight="700" fill="#FADCD5">
+    Hi, I'm Ayyan Zubair
+    <animate attributeName="opacity" values="0;1" dur="1s" fill="freeze"/>
+  </text>
+</svg>
 
 <svg xmlns="http://www.w3.org/2000/svg" width="420" height="36">
   <rect width="100%" height="100%" fill="#1B0C1A" rx="8"/>
@@ -40,7 +45,13 @@
 
 <div align="center">
 
-## About Me
+<svg xmlns="http://www.w3.org/2000/svg" width="200" height="40" viewBox="0 0 200 40">
+  <text x="100" y="30" text-anchor="middle" font-family="'Segoe UI', Ubuntu, sans-serif" font-size="22" font-weight="700" fill="#FADCD5">
+    About Me
+    <animate attributeName="opacity" values="0;1" dur="0.8s" fill="freeze"/>
+    <animateTransform attributeName="transform" type="translate" values="0,10;0,0" dur="0.8s" fill="freeze"/>
+  </text>
+</svg>
 
 </div>
 
@@ -86,7 +97,13 @@ Computer Science undergraduate at **NUML Islamabad** with a passion for building
 
 <div align="center">
 
-## Tech Stack
+<svg xmlns="http://www.w3.org/2000/svg" width="200" height="40" viewBox="0 0 200 40">
+  <text x="100" y="30" text-anchor="middle" font-family="'Segoe UI', Ubuntu, sans-serif" font-size="22" font-weight="700" fill="#FADCD5">
+    Tech Stack
+    <animate attributeName="opacity" values="0;1" dur="0.8s" fill="freeze"/>
+    <animateTransform attributeName="transform" type="translate" values="0,10;0,0" dur="0.8s" fill="freeze"/>
+  </text>
+</svg>
 
 </div>
 
@@ -164,7 +181,13 @@ Computer Science undergraduate at **NUML Islamabad** with a passion for building
 
 <div align="center">
 
-## What I Build
+<svg xmlns="http://www.w3.org/2000/svg" width="200" height="40" viewBox="0 0 200 40">
+  <text x="100" y="30" text-anchor="middle" font-family="'Segoe UI', Ubuntu, sans-serif" font-size="22" font-weight="700" fill="#FADCD5">
+    What I Build
+    <animate attributeName="opacity" values="0;1" dur="0.8s" fill="freeze"/>
+    <animateTransform attributeName="transform" type="translate" values="0,10;0,0" dur="0.8s" fill="freeze"/>
+  </text>
+</svg>
 
 </div>
 
@@ -213,7 +236,13 @@ Modern interfaces, UI/UX experimentation, and interactive/3D web experiences.
 
 <div align="center">
 
-## Currently Exploring
+<svg xmlns="http://www.w3.org/2000/svg" width="250" height="40" viewBox="0 0 250 40">
+  <text x="125" y="30" text-anchor="middle" font-family="'Segoe UI', Ubuntu, sans-serif" font-size="22" font-weight="700" fill="#FADCD5">
+    Currently Exploring
+    <animate attributeName="opacity" values="0;1" dur="0.8s" fill="freeze"/>
+    <animateTransform attributeName="transform" type="translate" values="0,10;0,0" dur="0.8s" fill="freeze"/>
+  </text>
+</svg>
 
 </div>
 
@@ -252,7 +281,13 @@ Modern interfaces, UI/UX experimentation, and interactive/3D web experiences.
 
 <div align="center">
 
-## GitHub Stats
+<svg xmlns="http://www.w3.org/2000/svg" width="220" height="40" viewBox="0 0 220 40">
+  <text x="110" y="30" text-anchor="middle" font-family="'Segoe UI', Ubuntu, sans-serif" font-size="22" font-weight="700" fill="#FADCD5">
+    GitHub Stats
+    <animate attributeName="opacity" values="0;1" dur="0.8s" fill="freeze"/>
+    <animateTransform attributeName="transform" type="translate" values="0,10;0,0" dur="0.8s" fill="freeze"/>
+  </text>
+</svg>
 
 </div>
 
@@ -261,7 +296,7 @@ Modern interfaces, UI/UX experimentation, and interactive/3D web experiences.
 
 <br/>
 
-<img src="https://streak-stats.demolab.com?user=ayyanzubair729&theme=radical" width="100%" alt="streak" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ayyanzubair729&bg_color=1B0C1A&color=6D3C52&line=FADCD5&point=FADCD5&area_color=6D3C52&area=true&hide_border=true" width="100%" alt="activity graph" />
 
 <br/>
 
@@ -285,7 +320,13 @@ Modern interfaces, UI/UX experimentation, and interactive/3D web experiences.
 
 <div align="center">
 
-## Featured Projects
+<svg xmlns="http://www.w3.org/2000/svg" width="250" height="40" viewBox="0 0 250 40">
+  <text x="125" y="30" text-anchor="middle" font-family="'Segoe UI', Ubuntu, sans-serif" font-size="22" font-weight="700" fill="#FADCD5">
+    Featured Projects
+    <animate attributeName="opacity" values="0;1" dur="0.8s" fill="freeze"/>
+    <animateTransform attributeName="transform" type="translate" values="0,10;0,0" dur="0.8s" fill="freeze"/>
+  </text>
+</svg>
 
 </div>
 
@@ -358,7 +399,13 @@ AI-Powered Healthcare Website providing intelligent, accessible, and user-friend
 
 <div align="center">
 
-## Let's Connect
+<svg xmlns="http://www.w3.org/2000/svg" width="220" height="40" viewBox="0 0 220 40">
+  <text x="110" y="30" text-anchor="middle" font-family="'Segoe UI', Ubuntu, sans-serif" font-size="22" font-weight="700" fill="#FADCD5">
+    Let's Connect
+    <animate attributeName="opacity" values="0;1" dur="0.8s" fill="freeze"/>
+    <animateTransform attributeName="transform" type="translate" values="0,10;0,0" dur="0.8s" fill="freeze"/>
+  </text>
+</svg>
 
 </div>
 
@@ -392,7 +439,12 @@ AI-Powered Healthcare Website providing intelligent, accessible, and user-friend
 
 <div align="center">
 
-**Build** &nbsp;•&nbsp; **Learn** &nbsp;•&nbsp; **Create** &nbsp;•&nbsp; **Improve**
+<svg xmlns="http://www.w3.org/2000/svg" width="360" height="30" viewBox="0 0 360 30">
+  <text x="180" y="22" text-anchor="middle" font-family="'Segoe UI', Ubuntu, sans-serif" font-size="16" font-weight="600" fill="#FADCD5">
+    Build · Learn · Create · Improve
+    <animate attributeName="opacity" values="0;1" dur="1.5s" fill="freeze"/>
+  </text>
+</svg>
 
 <br/>
 
@@ -400,6 +452,11 @@ AI-Powered Healthcare Website providing intelligent, accessible, and user-friend
 
 <br/>
 
-*Crafted with care by Ayyan Zubair*
+<svg xmlns="http://www.w3.org/2000/svg" width="280" height="25" viewBox="0 0 280 25">
+  <text x="140" y="18" text-anchor="middle" font-family="'Segoe UI', Ubuntu, sans-serif" font-size="13" font-style="italic" fill="#765D67">
+    Crafted with care by Ayyan Zubair
+    <animate attributeName="opacity" values="0;1" dur="2s" fill="freeze"/>
+  </text>
+</svg>
 
 </div>
