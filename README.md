@@ -2,10 +2,12 @@
 
 <img src="images/avatar%20git.png" width="150" style="border-radius: 50%; border: 3px solid #2D222F;" alt="avatar" />
 
-<svg xmlns="http://www.w3.org/2000/svg" width="460" height="50" viewBox="0 0 460 50">
-  <text x="230" y="38" text-anchor="middle" font-family="'Segoe UI', Ubuntu, sans-serif" font-size="32" font-weight="700" fill="#FADCD5">
+<svg xmlns="http://www.w3.org/2000/svg" width="520" height="55" viewBox="0 0 520 55">
+  <text x="260" y="42" text-anchor="middle" font-family="'Segoe UI', Ubuntu, sans-serif" font-size="36" font-weight="700" fill="none" stroke="#FADCD5" stroke-width="1" stroke-dasharray="2000" stroke-dashoffset="2000">
     Hi, I'm Ayyan Zubair
-    <animate attributeName="opacity" values="0;1" dur="1s" fill="freeze"/>
+    <animate attributeName="stroke-dashoffset" values="2000;0" dur="2.5s" fill="freeze"/>
+    <animate attributeName="fill" values="transparent;#FADCD5" dur="0.1s" begin="2.5s" fill="freeze"/>
+    <animate attributeName="stroke" values="#FADCD5;transparent" dur="0.1s" begin="2.5s" fill="freeze"/>
   </text>
 </svg>
 
