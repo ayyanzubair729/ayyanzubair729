@@ -1,10 +1,6 @@
 <div align="center">
 
-<img src="images/background%20git.jpeg" width="100%" alt="banner" />
-
-<br/>
-
-<img src="images/avatar%20git.png" width="150" style="border-radius: 50%; border: 3px solid #2D222F; margin-top: -75px;" alt="avatar" />
+<img src="images/avatar%20git.png" width="150" style="border-radius: 50%; border: 3px solid #2D222F;" alt="avatar" />
 
 # Hi, I'm Ayyan Zubair
 
@@ -262,6 +258,10 @@ Modern interfaces, UI/UX experimentation, and interactive/3D web experiences.
 
 <img src="https://github-readme-stats-ten-sigma.vercel.app/api?username=ayyanzubair729&show_icons=true&theme=radical&hide_border=true" width="49%" alt="stats" />
 <img src="https://github-readme-stats-ten-sigma.vercel.app/api/top-langs/?username=ayyanzubair729&layout=compact&theme=radical&hide_border=true" width="49%" alt="languages" />
+
+<br/>
+
+<img src="https://streak-stats.demolab.com?user=ayyanzubair729&theme=radical" width="100%" alt="streak" />
 
 <br/>
 
