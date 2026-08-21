@@ -1,10 +1,18 @@
+<div align="center">
+
 <table>
 <tr>
-<td align="center" width="100%" style="background: url('images/background%20git.jpeg') no-repeat center; background-size: cover; background-color: #1B0C1A; padding: 60px 20px 30px;">
+<td align="center" style="background: url('images/background%20git.jpeg') no-repeat center; background-size: cover; background-color: #1B0C1A; padding: 50px 40px 20px;">
 
 <img src="images/avatar%20git.png" width="150" style="border-radius: 50%; border: 3px solid #2D222F;" alt="avatar" />
 
 # Hi, I'm Ayyan Zubair
+
+</td>
+</tr>
+</table>
+
+</div>
 
 <svg xmlns="http://www.w3.org/2000/svg" width="420" height="36">
   <rect width="100%" height="100%" fill="#1B0C1A" rx="8"/>
@@ -17,10 +25,6 @@
 <br/>
 
 > Computer Science student at NUML Islamabad, currently in my 6th semester with a 3.94 CGPA, focused on full-stack development, backend engineering, API design, databases, and cloud-based applications.
-
-</td>
-</tr>
-</table>
 
 <br/>
 
@@ -50,7 +54,7 @@
 
 <table>
 <tr>
-<td width="100%">
+<td width="85%">
 
 Computer Science undergraduate at **NUML Islamabad** with a passion for building complete, scalable web applications. I thrive at the intersection of frontend design and backend engineering, constantly exploring how professional systems are built, deployed, and maintained.
 
@@ -58,6 +62,16 @@ Computer Science undergraduate at **NUML Islamabad** with a passion for building
 - Currently deepening expertise in **backend architecture** and **API design**
 - Learning **cloud deployment**, **database architecture**, and **modern DevOps**
 - Interested in **scalable systems**, **developer tooling**, and **production-ready applications**
+
+</td>
+<td width="15%" align="center" valign="middle">
+
+<svg xmlns="http://www.w3.org/2000/svg" width="100" height="120">
+  <g>
+    <animateTransform attributeName="transform" type="translate" values="0,0;0,-8;0,0" dur="3s" repeatCount="indefinite"/>
+    <image href="images/me%20git.png" width="100" height="120"/>
+  </g>
+</svg>
 
 </td>
 </tr>
@@ -151,7 +165,7 @@ Computer Science undergraduate at **NUML Islamabad** with a passion for building
   </line>
   <circle cx="150" cy="10" r="0" fill="#6D3C52">
     <animate attributeName="r" values="0;3;0" dur="2s" repeatCount="indefinite"/>
-  </line>
+  </circle>
   <line x1="170" y1="10" x2="300" y2="10" stroke="#6D3C52" stroke-width="1">
     <animate attributeName="x1" values="300;170" dur="1s" fill="freeze"/>
   </line>
@@ -200,7 +214,7 @@ Modern interfaces, UI/UX experimentation, and interactive/3D web experiences.
   </line>
   <circle cx="150" cy="10" r="0" fill="#6D3C52">
     <animate attributeName="r" values="0;3;0" dur="2s" repeatCount="indefinite"/>
-  </line>
+  </circle>
   <line x1="170" y1="10" x2="300" y2="10" stroke="#6D3C52" stroke-width="1">
     <animate attributeName="x1" values="300;170" dur="1s" fill="freeze"/>
   </line>
@@ -239,7 +253,7 @@ Modern interfaces, UI/UX experimentation, and interactive/3D web experiences.
   </line>
   <circle cx="150" cy="10" r="0" fill="#6D3C52">
     <animate attributeName="r" values="0;3;0" dur="2s" repeatCount="indefinite"/>
-  </line>
+  </circle>
   <line x1="170" y1="10" x2="300" y2="10" stroke="#6D3C52" stroke-width="1">
     <animate attributeName="x1" values="300;170" dur="1s" fill="freeze"/>
   </line>
@@ -255,12 +269,12 @@ Modern interfaces, UI/UX experimentation, and interactive/3D web experiences.
 
 </div>
 
-<img src="https://github-readme-stats.vercel.app/api?username=ayyanzubair729&show_icons=true&theme=radical&hide_border=true" width="49%" alt="stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayyanzubair729&layout=compact&theme=radical&hide_border=true" width="49%" alt="languages" />
+<img src="https://github-readme-stats-ten-sigma.vercel.app/api?username=ayyanzubair729&show_icons=true&theme=radical&hide_border=true" width="49%" alt="stats" />
+<img src="https://github-readme-stats-ten-sigma.vercel.app/api/top-langs/?username=ayyanzubair729&layout=compact&theme=radical&hide_border=true" width="49%" alt="languages" />
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ayyanzubair729&theme=radical" width="100%" alt="streak" />
+<img src="https://streak-stats.demolab.com?user=ayyanzubair729&theme=radical" width="100%" alt="streak" />
 
 <br/>
 
@@ -272,7 +286,7 @@ Modern interfaces, UI/UX experimentation, and interactive/3D web experiences.
   </line>
   <circle cx="150" cy="10" r="0" fill="#6D3C52">
     <animate attributeName="r" values="0;3;0" dur="2s" repeatCount="indefinite"/>
-  </line>
+  </circle>
   <line x1="170" y1="10" x2="300" y2="10" stroke="#6D3C52" stroke-width="1">
     <animate attributeName="x1" values="300;170" dur="1s" fill="freeze"/>
   </line>
@@ -345,7 +359,7 @@ AI-Powered Healthcare Website providing intelligent, accessible, and user-friend
   </line>
   <circle cx="150" cy="10" r="0" fill="#6D3C52">
     <animate attributeName="r" values="0;3;0" dur="2s" repeatCount="indefinite"/>
-  </line>
+  </circle>
   <line x1="170" y1="10" x2="300" y2="10" stroke="#6D3C52" stroke-width="1">
     <animate attributeName="x1" values="300;170" dur="1s" fill="freeze"/>
   </line>
@@ -379,7 +393,7 @@ AI-Powered Healthcare Website providing intelligent, accessible, and user-friend
   </line>
   <circle cx="150" cy="10" r="0" fill="#6D3C52">
     <animate attributeName="r" values="0;3;0" dur="2s" repeatCount="indefinite"/>
-  </line>
+  </circle>
   <line x1="170" y1="10" x2="300" y2="10" stroke="#6D3C52" stroke-width="1">
     <animate attributeName="x1" values="300;170" dur="1s" fill="freeze"/>
   </line>
