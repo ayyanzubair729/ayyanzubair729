@@ -13,10 +13,6 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
-        with:
-          ref: output
-          fetch-depth: 0
-        continue-on-error: true
 
       - uses: Platane/snk@v3
         with:
@@ -25,12 +21,12 @@ jobs:
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
 
-      - name: Deploy to output branch
+      - name: Push to output branch
         run: |
           cd dist
           git init
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add --all .
-          git commit -m "Update snake animation"
+          git add .
+          git commit -m "Update snake"
           git push --force https://x-access-token:${{ github.token }}@github.com/${{ github.repository }}.git HEAD:output
