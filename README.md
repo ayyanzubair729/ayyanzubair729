@@ -2,37 +2,13 @@
 
 <img src="images/avatar%20git.png" width="150" style="border-radius: 50%; border: 3px solid #4B2138;" alt="avatar" />
 
-<svg xmlns="http://www.w3.org/2000/svg" width="520" height="55" viewBox="0 0 520 55">
-  <text x="260" y="42" text-anchor="middle" font-family="'Segoe UI', Ubuntu, sans-serif" font-size="36" font-weight="700" fill="none" stroke="#FADCD5" stroke-width="1" stroke-dasharray="2000" stroke-dashoffset="2000">
-    Hi, I'm Ayyan Zubair
-    <animate attributeName="stroke-dashoffset" values="2000;0" dur="2.5s" fill="freeze"/>
-    <animate attributeName="fill" values="transparent;#FADCD5" dur="0.1s" begin="2.5s" fill="freeze"/>
-    <animate attributeName="stroke" values="#FADCD5;transparent" dur="0.1s" begin="2.5s" fill="freeze"/>
-  </text>
-</svg>
+<h1 align="center" style="color:#FADCD5; font-family:'Segoe UI',Ubuntu,sans-serif;">Hi, I'm Ayyan Zubair</h1>
 
-<svg xmlns="http://www.w3.org/2000/svg" width="420" height="36">
-  <rect width="100%" height="100%" fill="#1B0C1A" rx="8"/>
-  <text x="16" y="25" font-family="monospace" font-size="15" fill="#FADCD5">Full Stack Web Developer | CS Undergrad</text>
-  <line x1="402" y1="10" x2="402" y2="26" stroke="#6D3C52" stroke-width="2">
-    <animate attributeName="opacity" values="1;0;1" dur="1.2s" repeatCount="indefinite"/>
-  </line>
-</svg>
+**`Full Stack Web Developer | CS Undergrad`**
 
 <br/>
 
-<svg xmlns="http://www.w3.org/2000/svg" width="650" height="40" viewBox="0 0 650 40">
-  <text x="325" y="25" text-anchor="middle" font-family="'Segoe UI', Ubuntu, sans-serif" font-size="14" fill="#765D67" opacity="0">
-    Computer Science student at NUML Islamabad, currently in my 6th semester with a 3.94 CGPA,
-    <animate attributeName="opacity" values="0;0.9" dur="1.5s" begin="3s" fill="freeze"/>
-  </text>
-</svg>
-<svg xmlns="http://www.w3.org/2000/svg" width="650" height="25" viewBox="0 0 650 25">
-  <text x="325" y="18" text-anchor="middle" font-family="'Segoe UI', Ubuntu, sans-serif" font-size="14" fill="#765D67" opacity="0">
-    focused on full-stack development, backend engineering, API design, databases, and cloud-based applications.
-    <animate attributeName="opacity" values="0;0.9" dur="1.5s" begin="3.5s" fill="freeze"/>
-  </text>
-</svg>
+> Computer Science student at NUML Islamabad, currently in my 6th semester with a 3.94 CGPA, focused on full-stack development, backend engineering, API design, databases, and cloud-based applications.
 
 </div>
 
@@ -40,21 +16,9 @@
 
 <div align="center">
 
-<svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
-  <line x1="0" y1="10" x2="130" y2="10" stroke="#6D3C52" stroke-width="1">
-    <animate attributeName="x2" values="0;130" dur="1s" fill="freeze"/>
-  </line>
-  <circle cx="150" cy="10" r="0" fill="#6D3C52">
-    <animate attributeName="r" values="0;3;0" dur="2s" repeatCount="indefinite"/>
-  </circle>
-  <line x1="170" y1="10" x2="300" y2="10" stroke="#6D3C52" stroke-width="1">
-    <animate attributeName="x1" values="300;170" dur="1s" fill="freeze"/>
-  </line>
-</svg>
+![divider](https://img.shields.io/badge/------6D3C52?style=for-the-badge&labelColor=none&color=6D3C52)
 
 </div>
-
-<br/>
 
 <div align="center">
 
@@ -86,17 +50,7 @@ Computer Science undergraduate at **NUML Islamabad** with a passion for building
 
 <div align="center">
 
-<svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
-  <line x1="0" y1="10" x2="130" y2="10" stroke="#6D3C52" stroke-width="1">
-    <animate attributeName="x2" values="0;130" dur="1s" fill="freeze"/>
-  </line>
-  <circle cx="150" cy="10" r="0" fill="#6D3C52">
-    <animate attributeName="r" values="0;3;0" dur="2s" repeatCount="indefinite"/>
-  </circle>
-  <line x1="170" y1="10" x2="300" y2="10" stroke="#6D3C52" stroke-width="1">
-    <animate attributeName="x1" values="300;170" dur="1s" fill="freeze"/>
-  </line>
-</svg>
+![divider](https://img.shields.io/badge/------6D3C52?style=for-the-badge&labelColor=none&color=6D3C52)
 
 </div>
 
@@ -164,17 +118,7 @@ Computer Science undergraduate at **NUML Islamabad** with a passion for building
 
 <div align="center">
 
-<svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
-  <line x1="0" y1="10" x2="130" y2="10" stroke="#6D3C52" stroke-width="1">
-    <animate attributeName="x2" values="0;130" dur="1s" fill="freeze"/>
-  </line>
-  <circle cx="150" cy="10" r="0" fill="#6D3C52">
-    <animate attributeName="r" values="0;3;0" dur="2s" repeatCount="indefinite"/>
-  </circle>
-  <line x1="170" y1="10" x2="300" y2="10" stroke="#6D3C52" stroke-width="1">
-    <animate attributeName="x1" values="300;170" dur="1s" fill="freeze"/>
-  </line>
-</svg>
+![divider](https://img.shields.io/badge/------6D3C52?style=for-the-badge&labelColor=none&color=6D3C52)
 
 </div>
 
@@ -213,17 +157,7 @@ Modern interfaces, UI/UX experimentation, and interactive/3D web experiences.
 
 <div align="center">
 
-<svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
-  <line x1="0" y1="10" x2="130" y2="10" stroke="#6D3C52" stroke-width="1">
-    <animate attributeName="x2" values="0;130" dur="1s" fill="freeze"/>
-  </line>
-  <circle cx="150" cy="10" r="0" fill="#6D3C52">
-    <animate attributeName="r" values="0;3;0" dur="2s" repeatCount="indefinite"/>
-  </circle>
-  <line x1="170" y1="10" x2="300" y2="10" stroke="#6D3C52" stroke-width="1">
-    <animate attributeName="x1" values="300;170" dur="1s" fill="freeze"/>
-  </line>
-</svg>
+![divider](https://img.shields.io/badge/------6D3C52?style=for-the-badge&labelColor=none&color=6D3C52)
 
 </div>
 
@@ -252,17 +186,7 @@ Modern interfaces, UI/UX experimentation, and interactive/3D web experiences.
 
 <div align="center">
 
-<svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
-  <line x1="0" y1="10" x2="130" y2="10" stroke="#6D3C52" stroke-width="1">
-    <animate attributeName="x2" values="0;130" dur="1s" fill="freeze"/>
-  </line>
-  <circle cx="150" cy="10" r="0" fill="#6D3C52">
-    <animate attributeName="r" values="0;3;0" dur="2s" repeatCount="indefinite"/>
-  </circle>
-  <line x1="170" y1="10" x2="300" y2="10" stroke="#6D3C52" stroke-width="1">
-    <animate attributeName="x1" values="300;170" dur="1s" fill="freeze"/>
-  </line>
-</svg>
+![divider](https://img.shields.io/badge/------6D3C52?style=for-the-badge&labelColor=none&color=6D3C52)
 
 </div>
 
@@ -289,17 +213,7 @@ Modern interfaces, UI/UX experimentation, and interactive/3D web experiences.
 
 <div align="center">
 
-<svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
-  <line x1="0" y1="10" x2="130" y2="10" stroke="#6D3C52" stroke-width="1">
-    <animate attributeName="x2" values="0;130" dur="1s" fill="freeze"/>
-  </line>
-  <circle cx="150" cy="10" r="0" fill="#6D3C52">
-    <animate attributeName="r" values="0;3;0" dur="2s" repeatCount="indefinite"/>
-  </circle>
-  <line x1="170" y1="10" x2="300" y2="10" stroke="#6D3C52" stroke-width="1">
-    <animate attributeName="x1" values="300;170" dur="1s" fill="freeze"/>
-  </line>
-</svg>
+![divider](https://img.shields.io/badge/------6D3C52?style=for-the-badge&labelColor=none&color=6D3C52)
 
 </div>
 
@@ -362,17 +276,7 @@ AI-Powered Healthcare Website providing intelligent, accessible, and user-friend
 
 <div align="center">
 
-<svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
-  <line x1="0" y1="10" x2="130" y2="10" stroke="#6D3C52" stroke-width="1">
-    <animate attributeName="x2" values="0;130" dur="1s" fill="freeze"/>
-  </line>
-  <circle cx="150" cy="10" r="0" fill="#6D3C52">
-    <animate attributeName="r" values="0;3;0" dur="2s" repeatCount="indefinite"/>
-  </circle>
-  <line x1="170" y1="10" x2="300" y2="10" stroke="#6D3C52" stroke-width="1">
-    <animate attributeName="x1" values="300;170" dur="1s" fill="freeze"/>
-  </line>
-</svg>
+![divider](https://img.shields.io/badge/------6D3C52?style=for-the-badge&labelColor=none&color=6D3C52)
 
 </div>
 
@@ -396,17 +300,7 @@ AI-Powered Healthcare Website providing intelligent, accessible, and user-friend
 
 <div align="center">
 
-<svg width="300" height="20" xmlns="http://www.w3.org/2000/svg">
-  <line x1="0" y1="10" x2="130" y2="10" stroke="#6D3C52" stroke-width="1">
-    <animate attributeName="x2" values="0;130" dur="1s" fill="freeze"/>
-  </line>
-  <circle cx="150" cy="10" r="0" fill="#6D3C52">
-    <animate attributeName="r" values="0;3;0" dur="2s" repeatCount="indefinite"/>
-  </circle>
-  <line x1="170" y1="10" x2="300" y2="10" stroke="#6D3C52" stroke-width="1">
-    <animate attributeName="x1" values="300;170" dur="1s" fill="freeze"/>
-  </line>
-</svg>
+![divider](https://img.shields.io/badge/------6D3C52?style=for-the-badge&labelColor=none&color=6D3C52)
 
 </div>
 
@@ -414,12 +308,7 @@ AI-Powered Healthcare Website providing intelligent, accessible, and user-friend
 
 <div align="center">
 
-<svg xmlns="http://www.w3.org/2000/svg" width="360" height="30" viewBox="0 0 360 30">
-  <text x="180" y="22" text-anchor="middle" font-family="'Segoe UI', Ubuntu, sans-serif" font-size="16" font-weight="600" fill="#FADCD5">
-    Build · Learn · Create · Improve
-    <animate attributeName="opacity" values="0;1" dur="1.5s" fill="freeze"/>
-  </text>
-</svg>
+**Build · Learn · Create · Improve**
 
 <br/>
 
@@ -427,11 +316,6 @@ AI-Powered Healthcare Website providing intelligent, accessible, and user-friend
 
 <br/>
 
-<svg xmlns="http://www.w3.org/2000/svg" width="280" height="25" viewBox="0 0 280 25">
-  <text x="140" y="18" text-anchor="middle" font-family="'Segoe UI', Ubuntu, sans-serif" font-size="13" font-style="italic" fill="#765D67">
-    Crafted with care by Ayyan Zubair
-    <animate attributeName="opacity" values="0;1" dur="2s" fill="freeze"/>
-  </text>
-</svg>
+*Crafted with care by Ayyan Zubair*
 
 </div>
