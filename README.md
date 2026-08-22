@@ -178,8 +178,13 @@ Modern interfaces, UI/UX experimentation, and interactive/3D web experiences.
 
 </div>
 
-<img src="https://github-readme-stats-ten-sigma.vercel.app/api?username=ayyanzubair729&show_icons=true&theme=tokyonight&hide_border=true" width="49%" alt="stats" />
-<img src="https://github-readme-stats-ten-sigma.vercel.app/api/top-langs/?username=ayyanzubair729&layout=compact&theme=tokyonight&hide_border=true" width="49%" alt="languages" />
+<table>
+<tr>
+<td width="33%"><img src="https://github-readme-stats-ten-sigma.vercel.app/api?username=ayyanzubair729&show_icons=true&theme=tokyonight&hide_border=true" width="100%" alt="stats" /></td>
+<td width="34%"><img src="images/animation.png" width="100%" alt="animation" /></td>
+<td width="33%"><img src="https://github-readme-stats-ten-sigma.vercel.app/api/top-langs/?username=ayyanzubair729&layout=compact&theme=tokyonight&hide_border=true" width="100%" alt="languages" /></td>
+</tr>
+</table>
 
 <br/>
 
