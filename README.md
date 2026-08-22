@@ -191,7 +191,7 @@ Modern interfaces, UI/UX experimentation, and interactive/3D web experiences.
 </td>
 <td width="34%" align="center" valign="middle">
 
-<img src="images/Programming%20Computer.gif" width="100%" alt="programming" />
+<img src="images/ayyan%20(2).png" width="100%" alt="animation" />
 
 </td>
 </tr>
@@ -203,7 +203,20 @@ Modern interfaces, UI/UX experimentation, and interactive/3D web experiences.
 
 <br/>
 
-<img src="https://ghstats.dev/api/card?username=ayyanzubair729&bg=162447&text=7CB9E8&title_color=4682B4&icon_color=4682B4&border_color=2E5090&hide_border=true&size=compact" width="49%" alt="streak stats" />
+<table>
+<tr>
+<td width="66%">
+
+<img src="https://ghstats.dev/api/card?username=ayyanzubair729&bg=162447&text=7CB9E8&title_color=4682B4&icon_color=4682B4&border_color=2E5090&hide_border=true&size=compact" width="100%" alt="streak stats" />
+
+</td>
+<td width="34%" align="center" valign="middle">
+
+<img src="images/Programming%20Computer.gif" width="100%" alt="programming" />
+
+</td>
+</tr>
+</table>
 
 <br/>
 
