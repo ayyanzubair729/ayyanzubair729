@@ -36,7 +36,7 @@ Computer Science undergraduate at **NUML Islamabad** with a passion for building
 </td>
 <td width="15%" align="center" valign="middle">
 
-<img src="images/Website%20Design%20Animation.gif" width="150" alt="code" />
+<img src="images/Website%20Design%20Animation.gif" width="300" alt="code" />
 
 </td>
 </tr>
