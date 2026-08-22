@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="images/avatar%20git.png" width="150" style="border-radius: 50%; border: 3px solid #4B2138;" alt="avatar" />
+<img src="images/avatar%20git.png" width="150" style="border-radius: 50%; border: 3px solid #2E5090;" alt="avatar" />
 
 <h1 align="center" style="color:#FADCD5; font-family:'Segoe UI',Ubuntu,sans-serif;">Hi, I'm Ayyan Zubair</h1>
 
@@ -14,11 +14,7 @@
 
 <br/>
 
-<div align="center">
-
-![divider](https://img.shields.io/badge/------6D3C52?style=for-the-badge&labelColor=none&color=6D3C52)
-
-</div>
+<br/>
 
 <div align="center">
 
@@ -48,11 +44,7 @@ Computer Science undergraduate at **NUML Islamabad** with a passion for building
 
 <br/>
 
-<div align="center">
-
-![divider](https://img.shields.io/badge/------6D3C52?style=for-the-badge&labelColor=none&color=6D3C52)
-
-</div>
+<br/>
 
 <br/>
 
@@ -84,9 +76,9 @@ Computer Science undergraduate at **NUML Islamabad** with a passion for building
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white)
-![REST APIs](https://img.shields.io/badge/REST_APIs-6D3C52?style=flat&logoColor=white)
+![REST APIs](https://img.shields.io/badge/REST_APIs-4682B4?style=flat&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT-000000?style=flat&logo=jsonwebtokens&logoColor=white)
-![OAuth](https://img.shields.io/badge/OAuth-6D3C52?style=flat&logoColor=white)
+![OAuth](https://img.shields.io/badge/OAuth-2E5090?style=flat&logoColor=white)
 ![Passport.js](https://img.shields.io/badge/Passport.js-34E0A1?style=flat&logo=passport&logoColor=white)
 
 </td>
@@ -116,11 +108,7 @@ Computer Science undergraduate at **NUML Islamabad** with a passion for building
 
 <br/>
 
-<div align="center">
-
-![divider](https://img.shields.io/badge/------6D3C52?style=for-the-badge&labelColor=none&color=6D3C52)
-
-</div>
+<br/>
 
 <br/>
 
@@ -155,11 +143,7 @@ Modern interfaces, UI/UX experimentation, and interactive/3D web experiences.
 
 <br/>
 
-<div align="center">
-
-![divider](https://img.shields.io/badge/------6D3C52?style=for-the-badge&labelColor=none&color=6D3C52)
-
-</div>
+<br/>
 
 <br/>
 
@@ -171,24 +155,20 @@ Modern interfaces, UI/UX experimentation, and interactive/3D web experiences.
 
 <div align="center">
 
-![Backend Architecture](https://img.shields.io/badge/Backend_Architecture-6D3C52?style=flat-square)
-![Scalable Systems](https://img.shields.io/badge/Scalable_Systems-6D3C52?style=flat-square)
-![Cloud Deployment](https://img.shields.io/badge/Cloud_Deployment-6D3C52?style=flat-square)
-![API Design](https://img.shields.io/badge/API_Design-6D3C52?style=flat-square)
-![Database Architecture](https://img.shields.io/badge/Database_Architecture-6D3C52?style=flat-square)
-![Modern Engineering](https://img.shields.io/badge/Modern_Engineering-6D3C52?style=flat-square)
-![Developer Tooling](https://img.shields.io/badge/Developer_Tooling-6D3C52?style=flat-square)
-![Production Apps](https://img.shields.io/badge/Production_Apps-6D3C52?style=flat-square)
+![Backend Architecture](https://img.shields.io/badge/Backend_Architecture-2E5090?style=flat-square)
+![Scalable Systems](https://img.shields.io/badge/Scalable_Systems-4682B4?style=flat-square)
+![Cloud Deployment](https://img.shields.io/badge/Cloud_Deployment-7CB9E8?style=flat-square)
+![API Design](https://img.shields.io/badge/API_Design-2E5090?style=flat-square)
+![Database Architecture](https://img.shields.io/badge/Database_Architecture-4682B4?style=flat-square)
+![Modern Engineering](https://img.shields.io/badge/Modern_Engineering-7CB9E8?style=flat-square)
+![Developer Tooling](https://img.shields.io/badge/Developer_Tooling-2E5090?style=flat-square)
+![Production Apps](https://img.shields.io/badge/Production_Apps-4682B4?style=flat-square)
 
 </div>
 
 <br/>
 
-<div align="center">
-
-![divider](https://img.shields.io/badge/------6D3C52?style=for-the-badge&labelColor=none&color=6D3C52)
-
-</div>
+<br/>
 
 <br/>
 
@@ -198,12 +178,12 @@ Modern interfaces, UI/UX experimentation, and interactive/3D web experiences.
 
 </div>
 
-<img src="https://github-readme-stats-ten-sigma.vercel.app/api?username=ayyanzubair729&show_icons=true&theme=radical&hide_border=true" width="49%" alt="stats" />
-<img src="https://github-readme-stats-ten-sigma.vercel.app/api/top-langs/?username=ayyanzubair729&layout=compact&theme=radical&hide_border=true" width="49%" alt="languages" />
+<img src="https://github-readme-stats-ten-sigma.vercel.app/api?username=ayyanzubair729&show_icons=true&theme=tokyonight&hide_border=true" width="49%" alt="stats" />
+<img src="https://github-readme-stats-ten-sigma.vercel.app/api/top-langs/?username=ayyanzubair729&layout=compact&theme=tokyonight&hide_border=true" width="49%" alt="languages" />
 
 <br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ayyanzubair729&bg_color=1B0C1A&color=6D3C52&line=FADCD5&point=FADCD5&area_color=6D3C52&area=true&hide_border=true" width="100%" alt="activity graph" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ayyanzubair729&bg_color=1B0C1A&color=4682B4&line=7CB9E8&point=7CB9E8&area_color=2E5090&area=true&hide_border=true" width="100%" alt="activity graph" />
 
 <br/>
 
@@ -211,11 +191,7 @@ Modern interfaces, UI/UX experimentation, and interactive/3D web experiences.
 
 <br/>
 
-<div align="center">
-
-![divider](https://img.shields.io/badge/------6D3C52?style=for-the-badge&labelColor=none&color=6D3C52)
-
-</div>
+<br/>
 
 <br/>
 
@@ -274,11 +250,7 @@ AI-Powered Healthcare Website providing intelligent, accessible, and user-friend
 
 <br/>
 
-<div align="center">
-
-![divider](https://img.shields.io/badge/------6D3C52?style=for-the-badge&labelColor=none&color=6D3C52)
-
-</div>
+<br/>
 
 <br/>
 
@@ -290,19 +262,15 @@ AI-Powered Healthcare Website providing intelligent, accessible, and user-friend
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-2D222F?style=for-the-badge&logo=vercel&logoColor=FADCD5&labelColor=6D3C52&color=2D222F)](https://ayyan-zubair.vercel.app)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-2D222F?style=for-the-badge&logo=linkedin&logoColor=FADCD5&labelColor=6D3C52&color=2D222F)](https://www.linkedin.com/in/ayyan-zubair-b4aba3328/)
-[![GitHub](https://img.shields.io/badge/GitHub-2D222F?style=for-the-badge&logo=github&logoColor=FADCD5&labelColor=6D3C52&color=2D222F)](https://github.com/ayyanzubair729)
+[![Portfolio](https://img.shields.io/badge/Portfolio-2D222F?style=for-the-badge&logo=vercel&logoColor=7CB9E8&labelColor=4682B4&color=2D222F)](https://ayyan-zubair.vercel.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-2D222F?style=for-the-badge&logo=linkedin&logoColor=7CB9E8&labelColor=4682B4&color=2D222F)](https://www.linkedin.com/in/ayyan-zubair-b4aba3328/)
+[![GitHub](https://img.shields.io/badge/GitHub-2D222F?style=for-the-badge&logo=github&logoColor=7CB9E8&labelColor=4682B4&color=2D222F)](https://github.com/ayyanzubair729)
 
 </div>
 
 <br/>
 
-<div align="center">
-
-![divider](https://img.shields.io/badge/------6D3C52?style=for-the-badge&labelColor=none&color=6D3C52)
-
-</div>
+<br/>
 
 <br/>
 
