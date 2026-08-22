@@ -1,6 +1,16 @@
 <div align="center">
 
-<img src="images/avatar%20git.png" width="150" style="border-radius: 50%; border: 3px solid #2D222F;" alt="avatar" />
+<svg xmlns="http://www.w3.org/2000/svg" width="170" height="170" viewBox="0 0 170 170">
+  <circle cx="85" cy="85" r="78" fill="none" stroke="#6D3C52" stroke-width="2" opacity="0.4">
+    <animate attributeName="r" values="76;82;76" dur="3s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0.2;0.6;0.2" dur="3s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="85" cy="85" r="73" fill="none" stroke="#4B2138" stroke-width="1" opacity="0.3">
+    <animate attributeName="r" values="73;78;73" dur="3s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0.3;0.1;0.3" dur="3s" repeatCount="indefinite"/>
+  </circle>
+  <image href="images/avatar%20git.png" x="10" y="10" width="150" height="150"/>
+</svg>
 
 <svg xmlns="http://www.w3.org/2000/svg" width="520" height="55" viewBox="0 0 520 55">
   <text x="260" y="42" text-anchor="middle" font-family="'Segoe UI', Ubuntu, sans-serif" font-size="36" font-weight="700" fill="none" stroke="#FADCD5" stroke-width="1" stroke-dasharray="2000" stroke-dashoffset="2000">
@@ -21,7 +31,18 @@
 
 <br/>
 
-> Computer Science student at NUML Islamabad, currently in my 6th semester with a 3.94 CGPA, focused on full-stack development, backend engineering, API design, databases, and cloud-based applications.
+<svg xmlns="http://www.w3.org/2000/svg" width="650" height="40" viewBox="0 0 650 40">
+  <text x="325" y="25" text-anchor="middle" font-family="'Segoe UI', Ubuntu, sans-serif" font-size="14" fill="#765D67" opacity="0">
+    Computer Science student at NUML Islamabad, currently in my 6th semester with a 3.94 CGPA,
+    <animate attributeName="opacity" values="0;0.9" dur="1.5s" begin="3s" fill="freeze"/>
+  </text>
+</svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="650" height="25" viewBox="0 0 650 25">
+  <text x="325" y="18" text-anchor="middle" font-family="'Segoe UI', Ubuntu, sans-serif" font-size="14" fill="#765D67" opacity="0">
+    focused on full-stack development, backend engineering, API design, databases, and cloud-based applications.
+    <animate attributeName="opacity" values="0;0.9" dur="1.5s" begin="3.5s" fill="freeze"/>
+  </text>
+</svg>
 
 </div>
 
@@ -65,7 +86,12 @@ Computer Science undergraduate at **NUML Islamabad** with a passion for building
 </td>
 <td width="15%" align="center" valign="middle">
 
-<img src="images/me%20git.png" width="100" alt="code" style="animation: float 3s ease-in-out infinite;" />
+<svg xmlns="http://www.w3.org/2000/svg" width="110" height="130" viewBox="0 0 110 130">
+  <g>
+    <animateTransform attributeName="transform" type="translate" values="0,0;0,-10;0,0" dur="3s" repeatCount="indefinite"/>
+    <image href="images/me%20git.png" width="110" height="130"/>
+  </g>
+</svg>
 
 </td>
 </tr>
@@ -412,7 +438,12 @@ AI-Powered Healthcare Website providing intelligent, accessible, and user-friend
 
 <br/>
 
-<img src="images/avatar%20git%202.png" width="80" alt="robot" />
+<svg xmlns="http://www.w3.org/2000/svg" width="100" height="100" viewBox="0 0 100 100">
+  <g>
+    <animateTransform attributeName="transform" type="rotate" values="0,50,50;3,50,50;0,50,50;-3,50,50;0,50,50" dur="4s" repeatCount="indefinite"/>
+    <image href="images/avatar%20git%202.png" width="100" height="100"/>
+  </g>
+</svg>
 
 <br/>
 
