@@ -191,7 +191,7 @@ Modern interfaces, UI/UX experimentation, and interactive/3D web experiences.
 </td>
 <td width="34%" align="center" valign="middle">
 
-<img src="images/animation.png" width="100%" alt="animation" />
+<img src="images/ayyan%20(2).png" width="100%" alt="animation" />
 
 </td>
 </tr>
