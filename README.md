@@ -212,7 +212,7 @@ Modern interfaces, UI/UX experimentation, and interactive/3D web experiences.
 </td>
 <td width="34%" align="center" valign="middle">
 
-<img src="images/Programming%20Computer.gif" width="100%" alt="programming" />
+<img src="images/Live%20chatbot.gif" width="100%" alt="chatbot" />
 
 </td>
 </tr>
