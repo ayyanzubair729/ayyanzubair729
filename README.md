@@ -203,7 +203,7 @@ Modern interfaces, UI/UX experimentation, and interactive/3D web experiences.
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ayyanzubair729&theme=tokyonight&hide_border=true" width="100%" alt="streak stats" />
+<img src="https://streak-stats.demolab.com/?user=ayyanzubair729&theme=tokyonight&hide_border=true" width="100%" alt="streak stats" />
 
 <br/>
 
