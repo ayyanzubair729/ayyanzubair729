@@ -23,8 +23,9 @@ jobs:
 
       - name: Push to output branch
         run: |
-          rm -rf dist/.git
-          cd dist
+          mkdir -p /tmp/snake
+          cp dist/*.svg /tmp/snake/
+          cd /tmp/snake
           git init
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
