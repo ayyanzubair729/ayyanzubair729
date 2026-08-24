@@ -6,10 +6,6 @@
 
 <br/>
 
-<br/>
-
-<br/>
-
 > Computer Science student at NUML Islamabad, currently in my 6th semester with a 3.94 CGPA, focused on full-stack development, backend engineering, API design, databases, cloud-based applications, and automating things.
 
 </div>
