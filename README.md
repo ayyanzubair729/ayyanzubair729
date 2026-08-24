@@ -215,7 +215,20 @@ Modern interfaces, UI/UX experimentation, and interactive/3D web experiences.
 
 <br/>
 
-<img src="./profile-3d-contrib/profile-night-rainbow.svg" width="400" alt="3d contrib" />
+<table>
+<tr>
+<td width="50%" align="center">
+
+<img src="./profile-3d-contrib/profile-night-rainbow.svg" width="100%" alt="3d contrib" />
+
+</td>
+<td width="50%" align="center" valign="middle">
+
+<img src="images/me%20git.png" width="200" alt="me" />
+
+</td>
+</tr>
+</table>
 
 <br/>
 
