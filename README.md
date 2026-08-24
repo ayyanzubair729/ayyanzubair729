@@ -2,9 +2,7 @@
 
 <img src="images/avatar%20git.png" width="150" style="border-radius: 50%; border: 3px solid #2E5090;" alt="avatar" />
 
-<h1 align="center" style="color:#FADCD5; font-family:'Segoe UI',Ubuntu,sans-serif;">Hi, I'm Ayyan Zubair</h1>
-
-**`Full Stack Web Developer | CS Undergrad`**
+[![Typing SVG](https://readme-typing-svg.demolab.com?lines=Hi,+I'm+Ayyan+Zubair;Full+Stack+Web+Developer+|+CS+Undergrad&font=Fira+Code&center=true&width=500&height=50&duration=4000&pause=1000&color=7CB9E8&vCenter=true&multiline=true)](https://git.io/typing-svg)
 
 <br/>
 
