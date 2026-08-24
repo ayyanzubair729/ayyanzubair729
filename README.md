@@ -224,7 +224,7 @@ Modern interfaces, UI/UX experimentation, and interactive/3D web experiences.
 </td>
 <td width="50%" align="center" valign="middle">
 
-<img src="images/me%20git.png" width="200" alt="me" />
+<img src="images/developer.gif" width="200" alt="developer" />
 
 </td>
 </tr>
