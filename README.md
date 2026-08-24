@@ -89,7 +89,9 @@ Computer Science undergraduate at **NUML Islamabad** with a passion for building
 
 **Tools**
 
-<img src="https://skillicons.dev/icons?i=git,github,postman,vscode&perline=4" alt="tools" />
+<img src="https://skillicons.dev/icons?i=git,github,githubactions,docker,postman,vscode&perline=6" alt="tools" />
+
+![YAML](https://img.shields.io/badge/YAML-CB171E?style=flat&logo=yaml&logoColor=white)
 
 </td>
 </tr>
