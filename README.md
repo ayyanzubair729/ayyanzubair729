@@ -188,7 +188,7 @@ Modern interfaces, UI/UX experimentation, and interactive/3D web experiences.
 
 <br/>
 
-<img src="https://ghstats.dev/api/card?username=ayyanzubair729&bg=162447&text=7CB9E8&title_color=4682B4&icon_color=4682B4&border_color=2E5090&hide_border=true&size=compact" width="100%" alt="activity graph" />
+<img src="https://raw.githubusercontent.com/ayyanzubair729/ayyanzubair729/output/activity-graph.svg" width="100%" alt="activity graph" />
 
 <br/>
 
